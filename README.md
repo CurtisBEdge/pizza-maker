@@ -1,4 +1,4 @@
-This was the first group project we made during the course. It was made in React, using Firebase as the back end. We worked together pair coding in 4 pairs. Having just all gained our Scrum Master accredition, it was all done to scrum principles. We completed all the work during one sprint of 5 days, including all the sprint planning. Given that it was the first time any of us had programmed in teams, I feel like we worked very well and achieved much.
+This was the first group project we made during the course. The app is for designing and ordering pizzas, and lets the users see all previous pizza orders. It was made in React, using Firebase as the back end. We worked together pair coding in 4 pairs. Having just all gained our Scrum Master accredition, it was all done to scrum principles. We completed all the work during one sprint of 5 days, including all the sprint planning. Given that it was the first time any of us had programmed in teams, I feel like we worked very well and achieved much.
 
 
 
