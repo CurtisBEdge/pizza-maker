@@ -1,3 +1,7 @@
+This was the first group project we made during the course. It was made in React, using Firebase as the back end. We worked together pair coding in 4 pairs. Having just all gained our Scrum Master accredition, it was all done to scrum principles. We completed all the work during one sprint of 5 days, including all the sprint planning. Given that it was the first time any of us had programmed in teams, I feel like we worked very well and achieved much.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
